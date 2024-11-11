@@ -47,4 +47,5 @@ public class Bee1007Test
                 Arguments.of(145, 15.55, 2254.75)
         );
     }
+
 }
